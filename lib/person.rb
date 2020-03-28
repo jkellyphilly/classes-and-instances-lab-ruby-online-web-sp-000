@@ -1,6 +1,6 @@
 class Person
   # class body would be here, with
-  # methods defined and instance 
+  # methods defined and instance
   # variables
 end
 
